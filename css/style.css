@@ -339,3 +339,16 @@ footer{
 .footer__link:nth-child(3){
     border-left: 2px solid #000dfa;
 }
+
+/* simulador */
+/* id es # class es (.) */
+
+#simulador{
+    margin-top: 80px;
+}
+
+#simulador .titulo{
+    width: 100%;
+    text-align: center;
+    margin-top: 80px;
+}
