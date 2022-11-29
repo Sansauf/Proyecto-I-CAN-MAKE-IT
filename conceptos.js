@@ -16,4 +16,4 @@ document.write(nombre);
 // console.log en la consola del navegador o devtools
 console.log(nombre)
 
-var edad = prompt("cual es tu edad")
+var edade = prompt("cual es tu edad")
